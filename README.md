@@ -1,6 +1,6 @@
 # AZFA_HAIDAR_YUSUF_ARIEF_26-586301-SV-29028_MagangGMRT_Day2
 
-Notes, untuk perhitunga FK dan IK bidang xyz, dengan 3 joint saya cukup paham, tetapi saya belum berani sekaligus bisa menerjemahkannya ke bahasa python 
+Notes, untuk perhitunga FK dan IK bidang xyz, dengan 3 joint saya cukup paham, tetapi saya belum berani sekaligus belum bisa menerjemahkannya ke bahasa python 
 
 # Magang GMRT
 
