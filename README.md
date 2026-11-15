@@ -6,8 +6,8 @@
 
 ## 1. Profil
 
-- **Nama:** Azfa Haidar Yusuf Arief
-- **NIM:** 26/586301/SV/29028
+ **Nama:** Azfa Haidar Yusuf Arief
+ **NIM:** 26/586301/SV/29028
 
 ## 2. Deskripsi Singkat
 
@@ -33,9 +33,8 @@ Program ini dibuat menggunakan bahasa pemrograman Python untuk menyelesaikan stu
 
 Jalankan perintah berikut pada terminal:
 
-```bash
 pip install -r requirements.txt
-```
+
 
 ### C. Menjalankan Program
 
@@ -43,16 +42,7 @@ pip install -r requirements.txt
 2. Buka folder proyek melalui terminal.
 3. Jalankan perintah:
 
-```bash
 python main.py
-```
 
 4. Amati hasil program dan visualisasi yang dihasilkan.
 
-## 5. Dokumentasi
-
-File pendukung berupa foto coretan rumus dan screenshot hasil visualisasi dapat ditemukan pada folder `Dokumentasi/`.
-
----
-
-**Project:** Magang GMRT
