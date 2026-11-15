@@ -26,8 +26,9 @@ Program ini dibuat menggunakan bahasa pemrograman Python untuk menyelesaikan stu
 ## 4. Cara Instalasi & Menjalankan Program
 
 ### A. Persyaratan
-- Python 3.x
-- Library yang tercantum dalam requirements.txt
+Python 3.x
+
+Library yang tercantum dalam requirements.txt
 
 ### B. Instalasi Library
 
